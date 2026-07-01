@@ -1,9 +1,5 @@
 # StellarSend Contracts
 
-[![Build](https://github.com/StellarSend/contracts/actions/workflows/build.yml/badge.svg)](https://github.com/StellarSend/contracts/actions/workflows/build.yml)
-[![Test](https://github.com/StellarSend/contracts/actions/workflows/test.yml/badge.svg)](https://github.com/StellarSend/contracts/actions/workflows/test.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 Soroban smart contracts powering the [StellarSend](https://github.com/StellarSend) global money transfer platform. All contracts are written in Rust and deployed on the Stellar network.
 
 ---
